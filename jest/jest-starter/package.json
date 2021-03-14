@@ -1,0 +1,11 @@
+{
+  "name": "jest-starter",
+  "version": "1.0.0",
+  "description": "Testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rohan Sachdeva",
+  "license": "ISC"
+}
